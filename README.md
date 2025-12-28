@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Thaís 👋
-
-🎓 Analista de Sistemas | Desenvolvera Frontend
+**'Desenvolvera Frontend'**
+🎓 Analista de Sistemas | 
 💻 HTML | CSS | JavaScript  
 
 ### 🌱 Atualmente estudando
