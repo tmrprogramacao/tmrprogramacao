@@ -14,5 +14,5 @@
 - 📋 Lista de Tarefas
 
 📫 Vamos nos conectar:
-- LinkedIn: seu-link-aqui
+- LinkedIn: www.linkedin.com/in/thais-midlej-rocha
 
