@@ -16,4 +16,5 @@
 
 📫 Vamos nos conectar:
 - LinkedIn: www.linkedin.com/in/thais-midlej-rocha
+- Portifólio: https://tmrprogramacao.github.io/portifolio/
 
